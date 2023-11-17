@@ -5,7 +5,8 @@
 
     <input type="text" class="form-control" id="name" placeholder="" name="name">
     <!-- <div class="valid-feedback">Valid.</div> -->
-    <!-- <div class="invalid-feedback">Please fill out this field.</div> -->
+    <!-- <div class="invalid-feedback">Please fill out this field toi la.</div> -->
+    <!-- toi la tung -->
 </div>
 
 <div class="form-inline">
